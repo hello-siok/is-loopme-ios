@@ -1,0 +1,20 @@
+PODS:
+  - IronSourceSDK (7.5.1.0)
+  - LoopMeUnitedSDK (7.4.5)
+
+DEPENDENCIES:
+  - IronSourceSDK (= 7.5.1)
+  - LoopMeUnitedSDK (~> 7.4.2)
+
+SPEC REPOS:
+  trunk:
+    - IronSourceSDK
+    - LoopMeUnitedSDK
+
+SPEC CHECKSUMS:
+  IronSourceSDK: fa953c42181270336bc816fe969c49d36707b7d9
+  LoopMeUnitedSDK: c6db4e55f0169aa2060c95f59c347c93cfa0dd61
+
+PODFILE CHECKSUM: ba7c6a3b0017c45592088fec6865d6e5a98952ac
+
+COCOAPODS: 1.14.2
